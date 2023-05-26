@@ -22,3 +22,7 @@ pkg install git
 pkg install nano
 
 git clone https://github.com/Rdx-76/Termux-Modify
+
+cd Termux-Modify
+
+bash install.sh
